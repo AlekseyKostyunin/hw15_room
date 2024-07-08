@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">hw15_room</string>
+    <string name="edit_word_add">Введите слово для добавления</string>
+    <string name="add_btn">Добавить</string>
+    <string name="rating_words">Рейтинг слов:</string>
+    <string name="clear">Очистить словарь</string>
+    <string name="word_boor">Словарь</string>
+    <string name="search">Искать</string>
+    <string name="add_word_for_search">Введите слово для поиска</string>
+    <string name="error_text">Ошибка ввода: Не менее 3 символов и допустимы только буквы и дефисы!</string>
+    <string name="chapter1_add_words">Добавление слов:</string>
+    <string name="chapter2_search_word">Поиск слов:</string>
+</resources>
